@@ -49,7 +49,10 @@ Esto permite volver a ejecutar el notebook para generar gráficos, comparar mode
 
 
 
-
 ### Uso de inteligencia artificial
 
 Se utilizó ChatGPT (OpenAI) como herramienta de apoyo para el desarrollo del TP.
+
+
+### Nota
+Los tres trabajos prácticos se encuentran en un mismo repositorio. El TP3 se subió a la misma carpeta antes de haber recibido las correcciones (TP1, TP2). La documentación del TP3 se incorporó posteriormente a la entrega original, el mismo día, a partir de las observaciones recibidas.
