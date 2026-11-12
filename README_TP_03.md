@@ -2,7 +2,7 @@
 
 ## Descripción
 
-En este trabajo práctico se implementa una red neuronal multicapa (MLP) para la clasificación de textos del dataset *20 Newsgroups*.
+En este trabajo práctico se implementa una red neuronal multicapa (MLP) para la clasificación de textos del dataset *20 Newsgroups*. Para realizar las comparaciones, se toma como punto de partida la arquitectura y los hiperparámetros definidos en los TP1 y TP2
 
 Se comparan diferentes técnicas de regularización y normalización, incluyendo L1, L2, Dropout, Max-Norm y Batch Normalization.
 
@@ -55,4 +55,4 @@ Se utilizó ChatGPT (OpenAI) como herramienta de apoyo para el desarrollo del TP
 
 
 ### Nota
-Los tres trabajos prácticos se encuentran en un mismo repositorio. El TP3 se subió a la misma carpeta antes de haber recibido las correcciones (TP1, TP2). La documentación del TP3 se incorporó posteriormente a la entrega original, el mismo día, a partir de las observaciones recibidas.
+Los tres trabajos prácticos se encuentran en un mismo repositorio. El TP3 se subió a la misma carpeta antes de haber recibido las correcciones (TP1, TP2). La documentación del TP3 se incorporó posteriormente a la entrega original, a partir de las observaciones recibidas.
